@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShouliangChen
+- 👋 Hi, I’m Chenshouliang
 - 👀 I’m interested in ARM and Embedded Linux
 - 🌱 I’m currently learning C and STM32 applying
 
